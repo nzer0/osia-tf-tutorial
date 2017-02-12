@@ -17,10 +17,10 @@
 * 켜기
 `jupyter notebook`
 * 접속
-<https://tensorflow-tutorial-yourid.c9users.io:8080>
+<https://workspacename-yourid.c9users.io:8080>
 
 ### TensorBoard 사용
 * 켜기
 `tensorboard --logdir=dirname --port=8081`
 * 접속
-<https://tensorflow-tutorial-yourid.c9users.io:8081>
+<https://workspacename-yourid.c9users.io:8081>

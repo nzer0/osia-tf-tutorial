@@ -1,0 +1,9 @@
+sudo apt-get update
+sudo apt-get install -y python-pip python-dev python-h5py
+sudo pip install -U pip
+source ~/.bashrc
+sudo pip install -U setuptools
+sudo pip install tensorflow jupyter
+jupyter notebook --generate-config
+curl https://gist.githubusercontent.com/nzer0/4dd82aec0e0193a12d86355624d2b669/raw/9f369de6cc2389e234cfe981d2de93c53fc4552e/jupyter_notebook_config.py > ~/.jupyter/jupyter_notebook_config.py
+

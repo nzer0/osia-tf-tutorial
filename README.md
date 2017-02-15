@@ -20,7 +20,7 @@
 **주의: workspacename이나 id에 밑줄(underbar)이 들어있는 경우 대쉬(dash)로 바꿔줄 것) 예: deep_learning -> deep-learning**
 
 1. 비밀번호를 입력하여 접속 <br>
-비밀번호: **osia\*\*\*\***
+비밀번호: **osia\*\*\*\* **
 여기서 \* 4자리는 강의 날짜
 
 
